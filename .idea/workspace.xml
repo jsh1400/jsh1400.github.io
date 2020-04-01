@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddb77803-6491-4a6d-9183-487a6ec8ef1e" name="Default Changelist" comment="" />
+    <list default="true" id="ddb77803-6491-4a6d-9183-487a6ec8ef1e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/reactjs-timepicker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reactjs-timepicker/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/reactjs-timepicker/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="613">
-              <caret line="57" column="19" lean-forward="true" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+            <state relative-caret-position="129">
+              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
             </state>
           </provider>
         </entry>
@@ -85,6 +87,7 @@
       <recent name="$PROJECT_DIR$/reactjs-timepicker" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/reactjs-timepicker/assets" />
       <recent name="$PROJECT_DIR$/string-encode-decode" />
       <recent name="$PROJECT_DIR$/reactjs-timepicker" />
     </key>
@@ -114,12 +117,12 @@
       <workItem from="1584804244232" duration="2437000" />
       <workItem from="1585715047117" duration="1260000" />
       <workItem from="1585759128452" duration="636000" />
-      <workItem from="1585764018225" duration="2239000" />
+      <workItem from="1585764018225" duration="3166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6572000" />
+    <option name="totallyTimeSpent" value="7499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="31" width="1366" height="737" extended-state="6" />
@@ -175,10 +178,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/reactjs-timepicker/rr/my-app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1025">
+          <caret line="508" selection-start-line="508" selection-end-line="583" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reactjs-timepicker/assets/index_bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1815#1836#0" expanded="true" />
+            <element signature="e#3612#3628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/reactjs-timepicker/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
-          <caret line="57" column="19" lean-forward="true" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+        <state relative-caret-position="129">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
         </state>
       </provider>
     </entry>
