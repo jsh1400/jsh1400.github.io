@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddb77803-6491-4a6d-9183-487a6ec8ef1e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactjs-timepicker/assets/index_bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/reactjs-timepicker/assets/index_bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactjs-timepicker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reactjs-timepicker/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,22 +19,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/reactjs-timepicker/index.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+            <state relative-caret-position="222">
+              <caret line="157" column="22" lean-forward="true" selection-start-line="157" selection-start-column="22" selection-end-line="157" selection-end-column="22" />
+              <folding>
+                <element signature="n#style#0;n#pre#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reactjs-timepicker/assets/index_bundle.js">
+        <entry file="file://$PROJECT_DIR$/string-encode-decode/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#1815#1836#0" expanded="true" />
-                <element signature="e#3612#3628#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="9" column="23" selection-end-line="103" />
             </state>
           </provider>
         </entry>
@@ -58,6 +59,7 @@
         <option value="$PROJECT_DIR$/string-encode-decode/index.html" />
         <option value="$PROJECT_DIR$/reactjs-timepicker/rr/index.html" />
         <option value="$PROJECT_DIR$/reactjs-timepicker/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -82,13 +84,7 @@
             <path>
               <item name="jsh1400.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="jsh1400.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="reactjs-timepicker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jsh1400.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsh1400.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="reactjs-timepicker" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="string-encode-decode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -103,12 +99,13 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/reactjs-timepicker/assets" />
-      <recent name="$PROJECT_DIR$/string-encode-decode" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/reactjs-timepicker" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/reactjs-timepicker/assets" />
+      <recent name="$PROJECT_DIR$/string-encode-decode" />
       <recent name="$PROJECT_DIR$/reactjs-timepicker" />
     </key>
   </component>
@@ -139,11 +136,13 @@
       <workItem from="1585759128452" duration="636000" />
       <workItem from="1585764018225" duration="3796000" />
       <workItem from="1585770701969" duration="51000" />
+      <workItem from="1585821499609" duration="599000" />
+      <workItem from="1586454012860" duration="1714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8180000" />
+    <option name="totallyTimeSpent" value="10493000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="31" width="1366" height="737" extended-state="6" />
@@ -180,37 +179,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/reactjs-timepicker/rr/my-app.html" />
+    <entry file="file://$PROJECT_DIR$/reactjs-timepicker/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reactjs-timepicker/assets/index_bundle.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/string-encode-decode/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        <state relative-caret-position="135">
+          <caret line="9" column="23" selection-end-line="103" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/string-encode-decode/robots.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/reactjs-timepicker/rr/my-app.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="582" column="54" selection-start-line="508" selection-end-line="582" selection-end-column="54" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/robots.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/reactjs-timepicker/assets/index_bundle.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="222">
+          <caret line="157" column="22" lean-forward="true" selection-start-line="157" selection-start-column="22" selection-end-line="157" selection-end-column="22" />
           <folding>
-            <element signature="e#1815#1836#0" expanded="true" />
-            <element signature="e#3612#3628#0" expanded="true" />
+            <element signature="n#style#0;n#pre#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reactjs-timepicker/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
         </state>
       </provider>
     </entry>
